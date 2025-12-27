@@ -1,0 +1,12 @@
+{
+  "name": "oldphonebus-api",
+  "version": "1.0.0",
+  "description": "Transit API for J2ME apps - MZK Pabianice",
+  "main": "api/proxy.js",
+  "scripts": {
+    "start": "node api/proxy.js"
+  },
+  "keywords": ["j2me", "transit", "api", "mzk", "pabianice"],
+  "author": "krystian",
+  "license": "MIT"
+}
